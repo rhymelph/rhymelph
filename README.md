@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=rhymelph)
+![Profile views counter](https://komarev.com/ghpvc/?username=rhymelph)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GuangZhou
-- 🌱 I’m currently learning Dart/Flutter/AngularDart/Aqueduct
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Guangzhou** using the **flutter framework**.
+- 🌱 I’m currently learning `Dart`/`Flutter`/`AngularDart`/`Aqueduct`
+
 
