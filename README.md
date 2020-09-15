@@ -14,3 +14,8 @@
 <a href="https://github.com/rhymelph">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhymelph&theme=light&hide_langs_below=1" alt="Top Language"/>
 </a>
+
+- IDEA PLUGIN
+
+
+<iframe frameborder="none" width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/14134"></iframe>
